@@ -1,7 +1,6 @@
-3dnus
+HomeMenu Downloader
 =====
 
-Downloads from 3DS Nintendo Update Servers.
+Downloads HomeMenu from 3DS NUS.
 
-forked from ground
-https://gbatemp.net/threads/3dnus.376488/
+Forked from ground's [3DNUS](https://gbatemp.net/threads/3dnus.376488/)
